@@ -36,3 +36,9 @@ img {
   height: 300px;
   object-fit: cover;
 }
+
+/*Exemplo com classe no css*/
+.sobre-nos {
+  width: 80%;
+  text-align: center;
+}
